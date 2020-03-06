@@ -1,11 +1,5 @@
 /**
  * @author Rohan Dayal
- * @ID_Number 112768867
- * @Recitation 02
- */
-
-package homework2;
-/**
  * This class represents the Train object. Each Train object has private
  * variables for next Train as next, previous Train as prev, train number as
  * trainNumber, destination, arrivalTime as an int, transferTime as an int in 
