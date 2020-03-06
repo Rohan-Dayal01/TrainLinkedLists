@@ -1,9 +1,6 @@
 /**
  * @author Rohan Dayal
- * @ID_Number 112768867
- * @Recitation 02
  */
-package homework2;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 /**
