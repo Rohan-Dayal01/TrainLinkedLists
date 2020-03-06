@@ -1,11 +1,5 @@
 /**
  * @author Rohan Dayal
- * @ID_Number 112768867
- * @Recitation 02
- */
-
-package homework2;
-/**
  * This class represent the Track object which contains a doubly linked-list of train
  * objects to be kept track of.
  * Track has private variables for head Train, tail Train, cursor Train, next
